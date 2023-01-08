@@ -1,0 +1,10 @@
+com/rso40/loginservice/dto/LoginRequest.class
+com/rso40/loginservice/dto/LoginResponse.class
+com/rso40/loginservice/model/Login.class
+com/rso40/loginservice/dto/LoginResponse$LoginResponseBuilder.class
+com/rso40/loginservice/service/LoginService.class
+com/rso40/loginservice/repository/LoginRepository.class
+com/rso40/loginservice/dto/LoginRequest$LoginRequestBuilder.class
+com/rso40/loginservice/controller/LoginController.class
+com/rso40/loginservice/model/Login$LoginBuilder.class
+com/rso40/loginservice/LoginServiceApplication.class
