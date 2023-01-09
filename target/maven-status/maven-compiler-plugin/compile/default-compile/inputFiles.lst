@@ -1,7 +1,7 @@
-/Users/anjabrelih/Documents/MM/FRI_Računalniške storitve v oblaku/projekt/login-service/src/main/java/com/rso40/loginservice/service/LoginService.java
-/Users/anjabrelih/Documents/MM/FRI_Računalniške storitve v oblaku/projekt/login-service/src/main/java/com/rso40/loginservice/dto/LoginResponse.java
-/Users/anjabrelih/Documents/MM/FRI_Računalniške storitve v oblaku/projekt/login-service/src/main/java/com/rso40/loginservice/repository/LoginRepository.java
-/Users/anjabrelih/Documents/MM/FRI_Računalniške storitve v oblaku/projekt/login-service/src/main/java/com/rso40/loginservice/dto/LoginRequest.java
-/Users/anjabrelih/Documents/MM/FRI_Računalniške storitve v oblaku/projekt/login-service/src/main/java/com/rso40/loginservice/controller/LoginController.java
-/Users/anjabrelih/Documents/MM/FRI_Računalniške storitve v oblaku/projekt/login-service/src/main/java/com/rso40/loginservice/model/Login.java
-/Users/anjabrelih/Documents/MM/FRI_Računalniške storitve v oblaku/projekt/login-service/src/main/java/com/rso40/loginservice/LoginServiceApplication.java
+C:\Users\miham\Documents\GitHub\MM-AB\login-service\src\main\java\com\rso40\loginservice\LoginServiceApplication.java
+C:\Users\miham\Documents\GitHub\MM-AB\login-service\src\main\java\com\rso40\loginservice\model\Login.java
+C:\Users\miham\Documents\GitHub\MM-AB\login-service\src\main\java\com\rso40\loginservice\controller\LoginController.java
+C:\Users\miham\Documents\GitHub\MM-AB\login-service\src\main\java\com\rso40\loginservice\dto\LoginResponse.java
+C:\Users\miham\Documents\GitHub\MM-AB\login-service\src\main\java\com\rso40\loginservice\dto\LoginRequest.java
+C:\Users\miham\Documents\GitHub\MM-AB\login-service\src\main\java\com\rso40\loginservice\service\LoginService.java
+C:\Users\miham\Documents\GitHub\MM-AB\login-service\src\main\java\com\rso40\loginservice\repository\LoginRepository.java
